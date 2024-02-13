@@ -2,7 +2,7 @@
     font-family: 'Sriracha';
     src: url('fonts/Sriracha.ttf');
 }
-p{
+#PS{
     position: absolute;
     bottom: 0;
     display: none;
